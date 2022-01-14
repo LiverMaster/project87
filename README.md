@@ -9,6 +9,9 @@
 
 ## Arduino程式簡介:
 
+WiFi & MQTT參考寫法 : https://www.emqx.com/en/blog/esp8266-connects-to-the-public-mqtt-broker
+標靶程式 : 原創
+
 ### 程式分為兩種類型:
 
 1.硬體感應&控制
@@ -31,6 +34,8 @@
 2.遙控器
 
 * 工作內容 : 接收來自電腦的串列埠指令 > 發送MQTT指令 > 接收MQTT分數 > 用串列埠回傳電腦
+
+  註 : 串列埠的code未寫入.截圖為使用PC上的MQTT broker代發指令
   ![74](https://user-images.githubusercontent.com/36965820/149464274-576920b7-8945-45a9-b181-458bc459bb41.jpg)
 
 
