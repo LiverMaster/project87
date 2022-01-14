@@ -25,10 +25,14 @@
 1.標靶本體
 
 * 工作內容 : 接收MQTT指令 > 硬體計分 > MQTT回傳分數
+  ![73](https://user-images.githubusercontent.com/36965820/149464257-f0dd597b-f337-4eb0-aa0c-7aa8b3d88410.jpg)
+
 
 2.遙控器
 
 * 工作內容 : 接收來自電腦的串列埠指令 > 發送MQTT指令 > 接收MQTT分數 > 用串列埠回傳電腦
+  ![74](https://user-images.githubusercontent.com/36965820/149464274-576920b7-8945-45a9-b181-458bc459bb41.jpg)
+
 
 ### 網頁程式簡介:
 
