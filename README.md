@@ -40,5 +40,8 @@
 ![image](https://user-images.githubusercontent.com/55796905/149460796-7e57d0ee-520e-4041-a77b-ead8ea305755.png)
 
 2.登入後的主頁面
+![image](https://user-images.githubusercontent.com/55796905/149463086-22c22f0a-2eef-4bc0-8a40-f72f55f0fac5.png)
 
+![image](https://user-images.githubusercontent.com/55796905/149463123-726ce4a2-2b55-412d-acc6-e2ddd475c41e.png)
 
+![image](https://user-images.githubusercontent.com/55796905/149463049-4b71731c-d4ce-43dd-a87d-a7d94f7c1416.png)
