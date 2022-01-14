@@ -1,0 +1,123 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <!-- templatemo 304 light gray -->
+    <!-- 
+Light Gray Template 
+http://www.templatemo.com/preview/templatemo_304_light_gray 
+-->
+    <link href="./static/css/templatemo_style.css" rel="stylesheet" type="text/css" />
+    <script language="javascript" type="text/javascript">
+        function clearText(field) {
+            if (field.defaultValue == field.value) field.value = '';
+            else if (field.value == '') field.value = field.defaultValue;
+        }
+    </script>
+</head>
+
+<body>
+    <div id="templatemo_body_wrapper">
+        <div id="templatemo_wrapper">
+
+            <div id="templatemo_header">
+                <div id="site_title">
+                    <h1><a href="#">打靶系統</a></h1>
+                </div>
+
+                <div id="search_box">
+                    <form action="#" method="get">
+                        <input type="text" value="Search" name="q" size="10" id="searchfield" title="searchfield"
+                            onfocus="clearText(this)" onblur="clearText(this)" />
+                    </form>
+                </div>
+
+            </div> <!-- end of templatemo header -->
+
+            <div id="templatemo_menu">
+                <ul>
+                    <li><a href="/" class="current">主頁</a></li>
+                    <li><a href="/news">影片示範</a></li>
+                    <li><a href="/portfolio">射擊要訣</a></li>
+                    <li><a href="/about">關於我們</a></li>
+                    <li><a href="/loginweb">登入</a></li>
+                </ul>
+            </div> <!-- end of templatemo wrapper -->
+        </div> <!-- end of templatemo body wrapper -->
+
+        <div>
+            <h1>研究動機</h1>
+            <h4>在與警官長輩在閒聊時提起，根據警官的說法希望能有簡易打靶訓練器材供警局使用。所以決定以此當作目標。</h4><br>
+            <h4>經過組內討論，我們打算使用電腦操作開發板、伺服馬達等簡易器材再包上外殼，完成操作標靶的部分。</h4><br>
+            <h4>製作使用者跟打靶訓練統計的網頁，連結至網頁資料庫，作為模擬警署資料庫與訓練系統的資料庫的方法。​</h4><br>
+        </div>
+        <div>
+            <h1>研究目標​</h1>
+            <h4>提供相對低廉且高彈性的器材，能配合警署空間自由布置標靶位置給員警訓練，相對於制式化靶場也具有更高便利性與自由度。</h4><br>
+            <h4>此類型標靶用來訓練快速精準射擊。​<br>
+                達成基本目標之餘也會嘗試開發進階附加功能。<br></h4>
+        </div>
+        <img src="./static/images/target1.png" width="600" height="500">
+        <img src="./static/images/target2.png" width="600" height="500">
+        <div>
+            <h1>使用者流程圖</h1>
+            <img src="./static/images/user.png" width="600" height="500"><br>
+        </div>
+        <div>
+            <h1>背景</h1>
+            <h4>目的: 一般台灣警用靶場位置較少且固定, 本產品可以在警局內環境自由布置, 藉由反覆訓練以提高反應速度和精準度​</h4><br>
+            <h4>精準度: 影響手槍射擊的精準度原因有非常多,大致為以下幾個 : ​<br>
+                身體結構不同, 肌肉強度, 以及其它的生理及心理變化.​<br>
+                對每一個人都有效的最簡單的手槍技巧分為5種 : ​<br>
+                站姿, 握槍, 準星校準, 正確的扳機壓力, ​<br>
+                還有跟進動作(Follow Through).​</h4><br>
+        </div>
+        <div>
+            <h1>Follow Through</h1>
+            <h4>實際連貫操作的目標是盡可能用最小的動作及重新校準，快速為下次的射擊做好準備。​<br><br>
+
+                當槍枝擊發後，槍還在你手中動作時，將手指往回移動，釋放扳機至可重新擊發的點(第二道扳機)。<br>​
+                你不必將手指完全的釋放，只要到達當擠壓扳機時可重新擊發的點(第二道扳機)。​<br><br>
+
+                如果您使用的是正確的站姿和握法，後座力一開始會把槍往上推而且稍微往外，然後槍會自然往下掉，這時要順勢把槍導向新的或相同的目標。​<br>
+                不要使用不同的動作，就順著槍的動作一直做就好了。只要稍微校正一下，它最後就會落在你要的地方。​<br><br>
+                ​
+                正確地連貫操作，你將會在手指放在扳機待發、準星對在目標上時完成擊發。​<br>
+                經過一些練習，它會成為身體自動的反應，以及快速射擊的良好基礎。​<br><br><br><br></h4>
+        </div>
+        <div>
+            <h1>資源</h1>
+            <h2>環境:​</h2><br>
+            <h4>Anaconda​<br>
+                Jupyter notebook​<br>
+                Visual Studio & VS code​<br>
+                Arduino IDE​<br>
+                MQTT​<br></h4>
+            <h2>程式語言:​</h2><br>
+            <h4>Python​<br>
+                Html/CSS/JS​<br>
+                C#​<br>
+                Arduino​<br></h4>
+            <h2>硬體:​</h2><br>
+            <h4>D1mini (ESP8266)​<br>
+                Computer​<br></h4>
+        </div>
+        <div>
+            <h1>System Architecture​</h1>
+            <img src="./static/images/system.png" width="900" height="500"><br>
+        </div>
+
+        <div id="templatemo_footer_wrapper">
+            <div id="templatemo_footer">
+                Copyright © 2048 <a href="#">Your Company Name</a>
+                <div class="cleaner"></div>
+            </div>
+        </div>
+
+</body>
+
+</html>
