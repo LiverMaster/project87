@@ -1,15 +1,17 @@
 # 專案名稱 : 學校專題 - 打靶系統
 
+## 聲明 : 專案內容參考網路上的文章,並修改成我們需要的功能
+WiFi & MQTT參考寫法 : https://www.emqx.com/en/blog/esp8266-connects-to-the-public-mqtt-broker
+參考資料: [網頁模板](https://templatemo.com/about)
+
 開發環境 : Arduino IDE(硬體控制) . VS(網頁前端)
 
-組員 : 110810549 鄧筌祐 . 110810551 許嘉烜
+* 組員 : 110810549 鄧筌祐 . 110810551 許嘉烜
 
 ![70](https://user-images.githubusercontent.com/36965820/149462050-26af5bb2-7412-4793-ba1e-4193f72008a3.jpg)
 
 
 ## Arduino程式簡介:
-
-WiFi & MQTT參考寫法 : https://www.emqx.com/en/blog/esp8266-connects-to-the-public-mqtt-broker
 
 標靶程式 : 原創
 
@@ -41,8 +43,6 @@ WiFi & MQTT參考寫法 : https://www.emqx.com/en/blog/esp8266-connects-to-the-p
 
 
 ### 網頁程式簡介:
-
-參考資料: [網頁模板](https://templatemo.com/about)
 
 1.主頁面
 
